@@ -7,7 +7,7 @@ let data = [
     },
     {
         url: 'https://offer.ebay.com/ws/eBayISAPI.dll?ViewBidsLogin&item=353274931645&rt=nc&_trksid=p2047675.l2564',
-        product:'XBOX X series'
+        product:'XBOX  series'
     }
 ]
 
